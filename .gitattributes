@@ -1,0 +1,9 @@
+Pods/** linguist-vendored
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.cc linguist-detectable=false
+*.m linguist-detectable=false
+*.mm linguist-detectable=false
+**/Makefile linguist-detectable=false
+*.swift linguist-language=Swift
